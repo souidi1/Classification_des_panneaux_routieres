@@ -1,0 +1,2 @@
+# Classification_des_panneaux_routieres
+nous avons présenté la deuxième étape d’un système de reconnaissance de panneaux routiers, qui est basé principalement sur deux étapes principales, l’extraction des descripteurs et leur classification. Pour l’extraction des descripteurs des panneaux de la base GTSRB, nous avons utilisé le descripteur de LBP, ce dernier a été attribué à sa classe en utilisant SVM et Adaboost.
