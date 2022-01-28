@@ -5,5 +5,7 @@ panneaux routiers, qui est basé principalement sur deux étapes principales, l�
 des descripteurs et leur classification.
 Pour l’extraction des descripteurs des panneaux de la base GTSRB, j'ai utilisé le descripteur de LBP, 
 ce dernier a été attribué à sa classe en utilisant SVM et Adaboost.
+
 Langage utilisé :C++
+
 Bibliothèque :OpenCv
